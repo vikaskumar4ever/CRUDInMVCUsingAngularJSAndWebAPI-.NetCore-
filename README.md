@@ -1,0 +1,2 @@
+# CRUDInMVCUsingAngularJSAndWebAPI-.NetCore-
+CRUDInMVCUsingAngularJSAndWebAPI(.NetCore)
